@@ -2,3 +2,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+body>:nth-child(1){
+
+}
+body>:nth-child(2){
+
+}
+body>:nth-child(3){
+  
+}
